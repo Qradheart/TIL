@@ -20,3 +20,5 @@ http://staff.miyakyo-u.ac.jp/~k-taka2/pdf/galois.pdf
 - 16ページ
 - 最低限とはいいながら方程式の可解性とかまでやってくれている
 - section 2 のDedekindの定理は重要
+    - Dedekindの定理っていうのは、monoid <img src="https://latex.codecogs.com/gif.latex?\inline&space;E" /> から整域 <img src="https://latex.codecogs.com/gif.latex?\inline&space;A" /> への
+monoidの射の一次独立性についての定理で、これが有限次元Galois理論の要になってくる(有限集合の一致をいう場合には、hoge \leq huga \leq hoge型不等式で挟み込めばよい)
