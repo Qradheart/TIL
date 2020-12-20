@@ -2,9 +2,11 @@
 http://websites.math.leidenuniv.nl/algebra/GSchemes.pdf
 
 - unread 
-- section 1 は主定理のステートメントを述べることを目的としている。
-- section 2 は無限次Galois理論について
+- section 1 は主定理のステートメントを述べることを目的としている
+- section 2 は無限次Galois理論についての話
 - Galois拡大はここでは体拡大<img src="https://latex.codecogs.com/gif.latex?\inline&space;K\subset&space;L" />であって
+ある部分群<img src="https://latex.codecogs.com/gif.latex?\inline&space;G\subset&space;\mathrm{Aut}(L)" />によって
+<img src="https://latex.codecogs.com/gif.latex?\inline&space;K=L^G" />と表せるものとして定義されている
 
 #### pantodon "体についての基本と Galois 理論"
 http://pantodon.shinsh-u.ac.jp/topology/literature/ja/Galois.html
