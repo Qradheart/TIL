@@ -10,3 +10,8 @@ http://websites.math.leidenuniv.nl/algebra/GSchemes.pdf
 separableかつnormalな拡大と一致する、という形の命題が示されている。
 #### pantodon "体についての基本と Galois 理論"
 http://pantodon.shinsh-u.ac.jp/topology/literature/ja/Galois.html
+
+#### "最低限のGalois理論"
+http://staff.miyakyo-u.ac.jp/~k-taka2/pdf/galois.pdf
+
+- 16ページ
