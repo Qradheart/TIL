@@ -15,6 +15,7 @@ separableかつnormalな拡大と一致する、という形の命題が示さ�
 以下そのことについてのいくつかのメモ。例えば連結な群<img src="https://latex.codecogs.com/gif.latex?\inline&space;G" /> について、<img src="https://latex.codecogs.com/gif.latex?\inline&space;G" />-sets は sets と明らかに圏同値である。より一般に、どのような位相群
 <img src="https://latex.codecogs.com/gif.latex?\inline&space;G" /> についても<img src="https://latex.codecogs.com/gif.latex?\inline&space;G" />-sets はある副有限群<img src="https://latex.codecogs.com/gif.latex?\inline&space;\pi" /> について
 <img src="https://latex.codecogs.com/gif.latex?\inline&space;\pi" />-sets と圏同値になるのではないか？と考えている。具体的には、finite indexを持つclopen subgroupで割った商群の逆極限を取ることで副有限な群が得られるが、この群を用いればよいと思っている。
+<img src="https://latex.codecogs.com/gif.latex?\inline&space;\pi" />-sets の圏同値類から<img src="https://latex.codecogs.com/gif.latex?\inline&space;\pi" /> を復元できるか？ということに関しては(もちろん忘却関手付きで)、多分副有限なことからできそう。
 
 #### pantodon "体についての基本と Galois 理論"
 http://pantodon.shinsh-u.ac.jp/topology/literature/ja/Galois.html
