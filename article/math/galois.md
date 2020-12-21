@@ -20,3 +20,4 @@ http://staff.miyakyo-u.ac.jp/~k-taka2/pdf/galois.pdf
 - 16ページ
 - 最低限とはいいながら方程式の可解性とかまでやってくれている
 - section 2 のDedekindの定理は重要
+- とりあえず忘れたらこれを読むこと
