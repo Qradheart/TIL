@@ -29,3 +29,10 @@ http://staff.miyakyo-u.ac.jp/~k-taka2/pdf/galois.pdf
 - 最低限とはいいながら方程式の可解性とかまでやってくれている
 - section 2 のDedekindの定理は重要
 - とりあえず忘れたらこれを読むこと
+
+### Galois圏・淡中圏
+#### "Galois圏・淡中圏とその基本群の入門"
+http://www4.math.sci.osaka-u.ac.jp/~ibukiyam/pdf/第１２回/12_9.pdf
+- 玉川先生の記事
+- 12ページ
+- Galois圏が何かくらいを知っていると、なんとなくのモチベーションが生まれる
