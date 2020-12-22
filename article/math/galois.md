@@ -16,6 +16,7 @@ separableかつnormalな拡大と一致する、という形の命題が示さ�
  <img src="https://latex.codecogs.com/gif.latex?\inline&space;G" /> についても <img src="https://latex.codecogs.com/gif.latex?\inline&space;G" />-sets はある副有限群 <img src="https://latex.codecogs.com/gif.latex?\inline&space;\pi" /> について
  <img src="https://latex.codecogs.com/gif.latex?\inline&space;\pi" />-sets と圏同値になるのではないか？と考えている。具体的には、finite indexを持つclopen subgroupで割った商群の逆極限を取ることで副有限な群が得られるが、この群を用いればよいと思っている。
  <img src="https://latex.codecogs.com/gif.latex?\inline&space;\pi" />-sets の圏同値類から <img src="https://latex.codecogs.com/gif.latex?\inline&space;\pi" /> を復元できるか？ということに関しては(もちろん忘却関手付きで)、多分副有限なことからできそう。
+        - ちゃんとその辺書いてあった。あと一般の群についてその副有限完備化が得られるみたいな話は http://www4.math.sci.osaka-u.ac.jp/~ibukiyam/pdf/第１２回/12_9.pdf にもあった。
     - Galois圏の例として、連結空間上のfinite coveringの圏が挙げられているけど、被覆空間論って台空間にそんなにゆるい仮定でよかったっけ？弧状連結とか局所弧状連結とかなんか言ってた気がする
 
 #### pantodon "体についての基本と Galois 理論"
