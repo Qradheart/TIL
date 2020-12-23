@@ -33,3 +33,9 @@
 Route-finite poset <img src="https://latex.codecogs.com/gif.latex?\inline&space;P,Q" /> についてdisjoint union <img src="https://latex.codecogs.com/gif.latex?\inline&space;P\coprod&space;Q" />, product <img src="https://latex.codecogs.com/gif.latex?\inline&space;P\times&space;Q" /> はroute-finiteである。さらにdisjoint unionについては無限直和を取ってもroute-finitenessは保たれる。
 またroute-finite posetの部分圏はroute-finiteである。さらにroute-finite categoryの部分圏もroute-finiteであるため、route-finite posetのなすposetの充満部分圏 <img src="https://latex.codecogs.com/gif.latex?\inline&space;\mathsf{RFPos}" /> は有限完備であり、(無限)直和を持つ。
 あと自己同型群の有限部分群によるquotientは存在するだろうか？これはよくわからない。
+
+半順序というかまあ前順序というのかもしれないが、とりあえず <img src="https://latex.codecogs.com/gif.latex?\inline&space;i\leq&space;j" /> かつ <img src="https://latex.codecogs.com/gif.latex?\inline&space;j&space;i" /> なる組については <img src="https://latex.codecogs.com/gif.latex?\inline&space;i\cong&space;j" /> と書くことにして、
+<img src="https://latex.codecogs.com/gif.latex?\inline&space;i<j" /> と書いたときには <img src="https://latex.codecogs.com/gif.latex?\inline&space;i\cong&space;j" /> でないことを要請する。このとき、<img src="https://latex.codecogs.com/gif.latex?\inline&space;i<k<j" /> なる <img src="https://latex.codecogs.com/gif.latex?\inline&space;k" /> が存在しないような 
+<img src="https://latex.codecogs.com/gif.latex?\inline&space;i<j" /> なるペアについて、strict chainと呼ぶことにする。つなげてもstrict chainとよぶ。
+
+このとき、任意の <img src="https://latex.codecogs.com/gif.latex?\inline&space;i<j" /> なるペアは、有限長のstrict chainによって表すことができる。
