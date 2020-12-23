@@ -1,4 +1,4 @@
-# Route finite posetと行列環
+# Route-finite posetと行列環
 ## モチベーション
 行列環 <img src="https://latex.codecogs.com/gif.latex?\inline&space;\mathrm{M}_n(R)" /> について、その部分環として次のようなものを考えられる。
 - <img src="https://latex.codecogs.com/gif.latex?\inline&space;\mathrm{M}_n(R)" />
@@ -20,6 +20,8 @@
 <img src="https://latex.codecogs.com/gif.latex?\inline&space;k" /> は有限個
 
 このときroute-finiteな半順序 <img src="https://latex.codecogs.com/gif.latex?\inline&space;P" /> に対してそれに伴う行列環 <img src="https://latex.codecogs.com/gif.latex?\inline&space;\mathrm{M}_P(R)" /> を考えることができる。これは以下の通り:
-- hogehoge
+- <img src="https://latex.codecogs.com/gif.latex?\inline&space;i\leq&space;j" /> なる <img src="https://latex.codecogs.com/gif.latex?\inline&space;i,j\in&space;P" /> に対して 
+<img src="https://latex.codecogs.com/gif.latex?\inline&space;R" /> の要素を充てる対応を元とし、そのような対応 <img src="https://latex.codecogs.com/gif.latex?\inline&space;f,g" /> について 
+<img src="https://latex.codecogs.com/gif.latex?\inline&space;f*g(i,j)=\sum&space;_{i\leq&space;k\leq&space;j}f(i,k)g(k,j)" /> とおいて演算を定める
 
-この例として、可算次元上三角行列のなす環などが考えられる。
+この例として、可算次元上三角行列のなす環などが考えられる。ここでposetとしては順序数 <img src="https://latex.codecogs.com/gif.latex?\inline&space;\omega" /> を取っている。
