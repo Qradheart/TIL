@@ -25,3 +25,11 @@
 <img src="https://latex.codecogs.com/gif.latex?\inline&space;f*g(i,j)=\sum&space;_{i\leq&space;k\leq&space;j}f(i,k)g(k,j)" /> とおいて演算を定める
 
 この例として、可算次元上三角行列のなす環などが考えられる。ここでposetとしては順序数 <img src="https://latex.codecogs.com/gif.latex?\inline&space;\omega" /> を取っている。
+
+## Route-finite category
+もちろん一般にcategoryのレベルにまで持っていくことはできる。
+
+## Route-finite posetの性質
+Route-finite poset <img src="https://latex.codecogs.com/gif.latex?\inline&space;P,Q" /> についてdisjoint union <img src="https://latex.codecogs.com/gif.latex?\inline&space;P\coprod&space;Q" />, product <img src="https://latex.codecogs.com/gif.latex?\inline&space;P\times&space;Q" /> はroute-finiteである。さらにdisjoint unionについては無限直和を取ってもroute-finitenessは保たれる。
+またroute-finite posetの部分圏はroute-finiteである。さらにroute-finite categoryの部分圏もroute-finiteであるため、route-finite posetのなすposetの充満部分圏 <img src="https://latex.codecogs.com/gif.latex?\inline&space;\mathsf{RFPos}" /> は有限完備であり、(無限)直和を持つ。
+あと自己同型群の有限部分群によるquotientは存在するだろうか？これはよくわからない。
