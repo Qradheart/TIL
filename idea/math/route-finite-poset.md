@@ -39,3 +39,5 @@ Route-finite poset <img src="https://latex.codecogs.com/gif.latex?\inline&space;
 <img src="https://latex.codecogs.com/gif.latex?\inline&space;i<j" /> なるペアについて、strict chainと呼ぶことにする。つなげてもstrict chainとよぶ。
 
 このとき、任意の <img src="https://latex.codecogs.com/gif.latex?\inline&space;i<j" /> なるペアは、有限長のstrict chainによって表すことができる。
+
+なにかを帰納法で示したくなったとき便利そうなので <img src="https://latex.codecogs.com/gif.latex?\inline&space;\mathrm{length}_\mathrm{max}(i,j)" />, <img src="https://latex.codecogs.com/gif.latex?\inline&space;\mathrm{length}_\mathrm{min}(i,j)" /> なる記号を導入しておく。
