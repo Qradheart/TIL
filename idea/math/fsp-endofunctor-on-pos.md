@@ -8,4 +8,6 @@ poset <img src="https://latex.codecogs.com/gif.latex?\inline&space;P" /> に対�
 このとき、これは関手的である。
 
 ## monad構造
-monad構造頑張ったら与えられそう。finite joinを持つposetについてalgebraの構造与えられたりしないかな。
+~~monad構造頑張ったら与えられそう。finite joinを持つposetについてalgebraの構造与えられたりしないかな。~~
+
+ろりじょの指摘で、unitが与えられないよねってなった。
