@@ -7,6 +7,10 @@ https://eh-career.com/engineerhub/entry/2018/08/10/110000?amp=1
 
 #### Coqで独習するならどのページがいい？と聞かれたときのメモ
 https://qnighy.hatenablog.com/entry/20101220/1292829222
-- この辺からたどっていけばインストール方法とか入門記事とかみれる  
+- この辺からたどっていけばインストール方法とか入門記事とかみれる  リンク集
 - 魚拓: https://megalodon.jp/2020-1224-1715-57/https://qnighy.hatenablog.com:443/entry/20101220/1292829222
   - ちなみに「魚拓」は https://ja.wikipedia.org/wiki/%E9%AD%9A%E6%8B%93 に意味がかいてある
+
+#### 「coq入門」の入門
+https://qiita.com/kaizen_nagoya/items/13566f0b2083ea8d4998
+- リンク集
