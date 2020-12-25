@@ -15,9 +15,15 @@ https://qnighy.hatenablog.com/entry/20101220/1292829222
 https://qiita.com/kaizen_nagoya/items/13566f0b2083ea8d4998
 - リンク集
 
-#### anarchy proof
-https://web.archive.org/web/20130609190759/http://as305.dyndns.org/aps/
-- 魚拓
-
-#### blog
+#### その他
 https://m-hiyama.hatenablog.com/entry/20141207/1417948454
+
+https://www.jstage.jst.go.jp/article/jssst/34/2/34_2_64/_pdf
+
+http://proofcafe.org/sf/toc.html
+
+https://blog.7nobo.me/2016/11/16/175844.html
+
+https://www.fos.kuis.kyoto-u.ac.jp/~igarashi/class/cal17w/handout6.pdf
+
+https://www.fing.edu.uy/inco/grupos/mf/TPPSF/Man/coq-docs-html/Reference-Manual012.html　
