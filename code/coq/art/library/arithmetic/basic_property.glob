@@ -1,0 +1,70 @@
+DIGEST 34aea4a50dbac77c006eb08792a08dab
+Fbasic_property
+sec 8:17 <> inequality
+def 36:44 <> equal_nat
+R52:54 Coq.Init.Datatypes <> nat ind
+binder 47:47 <> n:1
+binder 49:49 <> m:2
+R68:68 basic_property <> n:1 var
+R90:90 basic_property <> m:2 var
+R112:115 Coq.Init.Logic <> True ind
+R127:127 Coq.Init.Datatypes <> S constr
+R134:138 Coq.Init.Logic <> False ind
+R156:156 Coq.Init.Datatypes <> S constr
+R169:169 basic_property <> m:2 var
+R191:195 Coq.Init.Logic <> False ind
+R207:207 Coq.Init.Datatypes <> S constr
+R214:222 basic_property <> equal_nat:3 def
+prf 260:271 <> one_neq_zero
+R276:276 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R282:286 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R287:291 Coq.Init.Logic <> False ind
+R278:280 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R355:363 basic_property <> equal_nat def
+R355:363 basic_property <> equal_nat def
+R420:422 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R407:415 basic_property <> equal_nat def
+R423:427 Coq.Init.Logic <> False ind
+R420:422 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R407:415 basic_property <> equal_nat def
+R423:427 Coq.Init.Logic <> False ind
+prf 490:510 <> equal_nat_is_equality
+R527:529 Coq.Init.Datatypes <> nat ind
+binder 522:522 <> n:7
+binder 524:524 <> m:8
+R537:541 Coq.Init.Logic <> ::type_scope:x_'<->'_x not
+R533:535 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R532:532 basic_property <> n:7 var
+R536:536 basic_property <> m:8 var
+R542:550 basic_property <> equal_nat def
+R554:554 basic_property <> m:8 var
+R552:552 basic_property <> n:7 var
+R788:791 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R792:796 Coq.Init.Logic <> False ind
+R771:779 basic_property <> equal_nat def
+R784:784 Coq.Init.Datatypes <> S constr
+R788:791 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R792:796 Coq.Init.Logic <> False ind
+R771:779 basic_property <> equal_nat def
+R784:784 Coq.Init.Datatypes <> S constr
+R970:973 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R974:978 Coq.Init.Logic <> False ind
+R953:961 basic_property <> equal_nat def
+R966:966 Coq.Init.Datatypes <> S constr
+R970:973 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R974:978 Coq.Init.Logic <> False ind
+R953:961 basic_property <> equal_nat def
+R966:966 Coq.Init.Datatypes <> S constr
+R1057:1060 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1061:1069 basic_property <> equal_nat def
+R1036:1044 basic_property <> equal_nat def
+R1053:1053 Coq.Init.Datatypes <> S constr
+R1047:1047 Coq.Init.Datatypes <> S constr
+R1057:1060 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1061:1069 basic_property <> equal_nat def
+R1036:1044 basic_property <> equal_nat def
+R1053:1053 Coq.Init.Datatypes <> S constr
+R1047:1047 Coq.Init.Datatypes <> S constr
+R1104:1106 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R1104:1106 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R1174:1183 basic_property inequality <> sec
